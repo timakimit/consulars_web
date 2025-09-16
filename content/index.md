@@ -2,7 +2,7 @@
 title: Consulars home page
 permalink: homepage
 ---
-
+![[consulars_image_png.png]]
 # **Pathway information**
 ## **Jedi Consulars Pathway**
 
