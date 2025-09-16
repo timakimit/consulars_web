@@ -7,5 +7,5 @@ This category showcases the pathway.
 ---
 
 # Articles:
-## [[content/index]]
+## [[Pathway Information]]
 ## [[Council Acknowledgements]]
