@@ -14,7 +14,7 @@ permalink: homepage
     
 - The Consulars Pathway falls under the jurisdiction of the Council of First Knowledge, one of the three minor Jedi Councils within the Order. Our Pathway offers the institute of the Librarian’s Assembly and the institute of Jedi Researchers.
     
-- Our method of acceptance is through a “Tryouts” anyone who is Initiate+ can join if they Pass their Tryout and meet the following requirements:
+- Our method of acceptance is through a “tryouts” anyone who is Initiate+ can join if they Pass their Tryout and meet the following requirements:
 
     - Must not be in any institute/Division other than the Librarians Assembly.
         
