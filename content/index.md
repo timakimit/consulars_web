@@ -27,9 +27,7 @@ permalink: homepage
         **𝓗𝓮𝓪𝓵, 𝓛𝓮𝓪𝓻𝓷, 𝓟𝓻𝓸𝓽𝓮𝓬𝓽.**
 ---
 ## **Useful links**
-[**Group Link**](https://www.roblox.com/groups/4603627/The-Jedi-Order-I-Consulars#!/about): See the main roblox group of our pathway!
-
-[**Discord Invite**](https://discord.gg/FdXJHfzJaR): Join our discord server!
-
+### [**Group Link**](https://www.roblox.com/groups/4603627/The-Jedi-Order-I-Consulars#!/about): See the main roblox group of our pathway!
+### [**Discord Invite**](https://discord.gg/FdXJHfzJaR): Join our discord server!
 ### [[Categories|Click here to get on the categories page]]
 ### [[Pathway Overview|Click here to get on the current category page]] 
