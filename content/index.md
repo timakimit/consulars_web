@@ -31,5 +31,5 @@ permalink: homepage
 
 [**Discord Invite**](https://discord.gg/FdXJHfzJaR): Join our discord server!
 
-# [[Categories|Click here to get on the categories page]]
-# [[Pathway Overview|Click here to get on the current category page]] 
+### [[Categories|Click here to get on the categories page]]
+### [[Pathway Overview|Click here to get on the current category page]] 
