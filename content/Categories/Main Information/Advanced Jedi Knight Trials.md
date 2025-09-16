@@ -7,4 +7,4 @@ Advanced Jedi Knight (AJK) Trials are trials that let you get AJK (Consular Heal
 ---
 
 # Links:
-## ==[AJK Trials Outline](https://docs.google.com/document/d/12sPBpqhkat_Qkrvint72Ch2YGouZGE1Xdmp0kv3PGbo/edit?tab=t.0)== 
+## [AJK Trials Outline](https://docs.google.com/document/d/12sPBpqhkat_Qkrvint72Ch2YGouZGE1Xdmp0kv3PGbo/edit?tab=t.0)
