@@ -1,6 +1,5 @@
 ---
-title: Consulars home page
-permalink: homepage
+title: "Consulars: Home page"
 ---
 ![[consulars_image_png.png]]
 # **Pathway information**
@@ -31,5 +30,5 @@ permalink: homepage
 See the main roblox group of our pathway!
 ### [**Discord Invite**](https://discord.gg/FdXJHfzJaR)
 Join our discord server!
-### [[Categories|Click here to get on the categories page]]
+### [[Categories (list)|Click here to get on the categories page]]
 ### [[Pathway Overview|Click here to get on the current page's category]] 
