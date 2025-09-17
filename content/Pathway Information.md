@@ -1,5 +1,6 @@
 ---
 title: "Consulars: Pathway Information"
+permalink: pathway_info
 ---
 ![[consulars_image_png.png]]
 # **Pathway information**

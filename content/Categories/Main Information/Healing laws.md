@@ -2,7 +2,7 @@
 title: "Consulars: Healing laws"
 permalink: healing_laws
 ---
-
+This article lists all the healing laws that members of TJO should maintain.
 # **The Healing Laws of the Jedi Order**
 
 - Jedi are **not** permitted to: heal Jedi engaged in a duel until that Jedi has been disengaged from combat for at least **THREE seconds**, or if their opponent(s) is dead. Jedi Consulars Healers+, TG Vanguard (When Guarding), TG while being at a disadvantage as if it is fighting a hostile using rage or being outnumbered and Jedi Council+ are **exempt from this rule.**

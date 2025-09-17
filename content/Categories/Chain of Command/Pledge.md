@@ -1,0 +1,5 @@
+**Consular Pledge is the First Rank of the Pathway.**
+
+To become a Pledge you must be accepted into the pathway by requesting in our Boarding Process.
+
+The Quota for Pledges is to attend 1 Consular [[Introduction|Introduction Training]].

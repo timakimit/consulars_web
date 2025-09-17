@@ -11,6 +11,6 @@ These are all the categories of this website.
 # Categories
 ## [[Pathway Overview]]
 ## [[Main Information]]
-## [[Consulars Chain of Command]]
-## [[Consulars awards]]
+## [[Chain of Command]]
+## [[Awards]]
 ## [[Trainings & events]]
