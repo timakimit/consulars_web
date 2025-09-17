@@ -1,5 +1,5 @@
 ---
-title: Main Information
+title: Main Information Category
 permalink: main_info_category
 ---
 This category shows the main information about pathway.
@@ -22,4 +22,4 @@ This category shows the main information about pathway.
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
+### [[Categories list|Click here to get on the categories page]]

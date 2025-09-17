@@ -6,7 +6,8 @@ permalink: timakimit.github.io/consulars_web/pathway_info
 # **Pathway Information**
 ## **Jedi Consulars Pathway**
 
-"A Consular is a specialized kind of Jedi. They focus more on cerebral Force skills. They're our healers, our researchers, our seers." - **Zayne Carrick**
+> [!quote] Zayne Carrick
+> "A Consular is a specialized kind of Jedi. They focus more on cerebral Force skills. They're our healers, our researchers, our seers."
 
 ---
 ## **Main information**
@@ -31,5 +32,8 @@ permalink: timakimit.github.io/consulars_web/pathway_info
 See the main roblox group of our pathway!
 ### [**Discord Invite**](https://discord.gg/FdXJHfzJaR)
 Join our discord server!
-### [[Categories|Click here to get on the categories page]]
-### [[Pathway Overview|Click here to get on the current page's category]] 
+
+---
+
+### [[Categories list|Click here to get on the categories page]]
+### [[Pathway Overview Category|Click here to get on the current page's category]]

@@ -13,5 +13,5 @@ To Become the Oversight of the Council of First Knowledge you must be a member o
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Chain of Command|Click here to get on the current page's category]] 
+### [[Categories list|Click here to get on the categories page]]
+### [[Chain of Command Category|Click here to get on the current page's category]] 

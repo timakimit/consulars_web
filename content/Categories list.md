@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Categories list
 permalink: timakimit.github.io/consulars_web/categories
 ---
 These are all the categories of this website.
@@ -9,8 +9,8 @@ These are all the categories of this website.
 
 ---
 # Categories
-## [[Pathway Overview]]
-## [[Main Information]]
-## [[Chain of Command]]
-## [[Awards]]
+## [[Pathway Overview Category]]
+## [[Main Information Category]]
+## [[Chain of Command Category]]
+## [[Awards Category]]
 ## [[Trainings and events]]

@@ -1,5 +1,5 @@
 ---
-title: Chain of Command
+title: Chain of Command Category
 permalink: coc
 ---
 Chain of command is a list of all ranks in an authority order.
@@ -39,4 +39,4 @@ This category contains all ranks, with an article for each rank.
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
+### [[Categories list|Click here to get on the categories page]]

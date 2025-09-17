@@ -13,5 +13,5 @@ The Quota for Pledges is to attend 1 Consular [[Introduction|Introduction Traini
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Chain of Command|Click here to get on the current page's category]] 
+### [[Categories list|Click here to get on the categories page]]
+### [[Chain of Command Category|Click here to get on the current page's category]] 

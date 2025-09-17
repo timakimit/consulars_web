@@ -10,5 +10,5 @@ They are to be worn during events like Consular Patrols and Practice Inspections
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Main Information|Click here to get on the current page's category]] 
+### [[Categories list|Click here to get on the categories page]]
+### [[Main Information Category|Click here to get on the current page's category]] 

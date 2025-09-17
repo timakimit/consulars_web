@@ -12,5 +12,5 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Awards|Click here to get on the current page's category]] 
+### [[Categories list|Click here to get on the categories page]]
+### [[Awards Category|Click here to get on the current page's category]] 

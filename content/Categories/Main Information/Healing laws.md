@@ -25,5 +25,5 @@ Otherwise, for members of the Consular Pathway, possible punishment can range fr
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Main Information|Click here to get on the current page's category]] 
+### [[Categories list|Click here to get on the categories page]]
+### [[Main Information Category|Click here to get on the current page's category]] 

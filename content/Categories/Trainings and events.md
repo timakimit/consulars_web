@@ -26,4 +26,4 @@ These events may be hosted by [[Sage|Sage+]].
 ## [[Practice Inspeciton]] 
 
 ---
-### [[Categories|Click here to get on the categories page]]
+### [[Categories list|Click here to get on the categories page]]

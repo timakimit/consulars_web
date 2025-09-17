@@ -1,5 +1,5 @@
 ---
-title: Pathway Overview
+title: Pathway Overview Category
 permalink: pathway_overview
 ---
 This category showcases the pathway.
@@ -12,4 +12,4 @@ This category showcases the pathway.
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
+### [[Categories list|Click here to get on the categories page]]

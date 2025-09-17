@@ -55,5 +55,5 @@ permalink: timakimit.github.io/consulars_web/council_acknowledgements
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Pathway Overview|Click here to get on the current page's category]] 
+### [[Categories list|Click here to get on the categories page]]
+### [[Pathway Overview Category|Click here to get on the current page's category]] 

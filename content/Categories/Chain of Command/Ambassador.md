@@ -18,5 +18,5 @@ The Quota for Ambassadors is Hosting 2 events and 1 [[Healing Patrol|Patrol]] in
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Chain of Command|Click here to get on the current page's category]] 
+### [[Categories list|Click here to get on the categories page]]
+### [[Chain of Command Category|Click here to get on the current page's category]] 
