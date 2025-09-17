@@ -30,5 +30,5 @@ title: "Consulars: Home page"
 See the main roblox group of our pathway!
 ### [**Discord Invite**](https://discord.gg/FdXJHfzJaR)
 Join our discord server!
-### [[Trainings and events|Click here to get on the categories page]]
+### [[Categories|Click here to get on the categories page]]
 ### [[Pathway Overview|Click here to get on the current page's category]] 
