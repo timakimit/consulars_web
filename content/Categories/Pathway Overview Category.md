@@ -1,6 +1,3 @@
----
-title: Pathway Overview Category
----
 This category showcases the pathway.
 
 ---

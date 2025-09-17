@@ -1,6 +1,3 @@
----
-title: Categories list
----
 These are all the categories of this website.
 
 > [!tip] **Pro tip:**

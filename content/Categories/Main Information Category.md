@@ -1,6 +1,3 @@
----
-title: Main Information Category
----
 This category shows the main information about pathway.
 
 ---

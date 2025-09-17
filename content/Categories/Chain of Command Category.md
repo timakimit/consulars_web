@@ -1,6 +1,3 @@
----
-title: Chain of Command Category
----
 Chain of command is a list of all ranks in an authority order.
 This category contains all ranks, with an article for each rank.
 

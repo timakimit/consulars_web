@@ -1,6 +1,3 @@
----
-title: Awards Category
----
 Awards are simply methods of rewarding Consulars members for exemplary service or perfomance. Some awards give you an endorsement (it can be Master Endorsement, Council Endorsement or Pathway Endorsement), while some just give you a special role in discord server. You may ask any Sage+ for a Pathway Endorsement task, any Consular Master+ for Master Endorsement task and CoFK+ for Council Endorsement task.
 
 ---

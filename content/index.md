@@ -1,5 +1,5 @@
 ---
-title: "Consulars: Home page"
+title: Home page
 ---
 ![[consulars_image_png.png]]
 # **Pathway Information**
