@@ -39,4 +39,4 @@ This category contains all ranks, with an article for each rank.
 
 ---
 
-### [[content/Categories/index|Click here to get on the categories page]]
+### [[Categories|Click here to get on the categories page]]

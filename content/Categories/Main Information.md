@@ -22,4 +22,4 @@ This category shows the main information about pathway.
 
 ---
 
-### [[content/Categories/index|Click here to get on the categories page]]
+### [[Categories|Click here to get on the categories page]]

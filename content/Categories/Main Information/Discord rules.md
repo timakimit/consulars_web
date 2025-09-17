@@ -52,5 +52,5 @@ Don't start arguments you have no intention of resolving. We ask you to take it 
 
 ---
 
-### [[content/Categories/index|Click here to get on the categories page]]
-### [[content/Categories/Main Information/index|Click here to get on the current page's category]] 
+### [[Categories|Click here to get on the categories page]]
+### [[Main Information|Click here to get on the current page's category]] 

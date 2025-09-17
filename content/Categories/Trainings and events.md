@@ -2,7 +2,6 @@
 title: Trainings & events
 permalink: timakimit.github.io/consulars_web/trainings_and_events
 ---
-
 List of all trainings & events, that are being hosted by staff team in Consulars.
 
 ---
@@ -27,4 +26,4 @@ These events may be hosted by [[Sage|Sage+]].
 ## [[Practice Inspeciton]] 
 
 ---
-### [[content/Categories/index|Click here to get on the categories page]]
+### [[Categories|Click here to get on the categories page]]

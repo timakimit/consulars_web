@@ -12,4 +12,4 @@ This category showcases the pathway.
 
 ---
 
-### [[content/Categories/index|Click here to get on the categories page]]
+### [[Categories|Click here to get on the categories page]]
