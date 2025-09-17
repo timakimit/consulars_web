@@ -11,5 +11,5 @@ Knowledge Keeper (KK) Trials are trials that let you get KK rank. To complete th
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Main Information|Click here to get on the current page's category]] 
+### [[content/Categories/index|Click here to get on the categories page]]
+### [[content/Categories/Main Information/index|Click here to get on the current page's category]] 

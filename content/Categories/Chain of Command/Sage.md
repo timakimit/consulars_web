@@ -20,5 +20,5 @@ Their Quota is Hosting 3 events a Week.
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Chain of Command|Click here to get on the current page's category]] 
+### [[content/Categories/index|Click here to get on the categories page]]
+### [[content/Categories/Chain of Command/index|Click here to get on the current page's category]] 

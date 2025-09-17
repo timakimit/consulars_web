@@ -1,5 +1,5 @@
 ---
-title: "Consulars: CoC"
+title: Chain of Command
 permalink: coc
 ---
 Chain of command is a list of all ranks in an authority order.
@@ -39,4 +39,4 @@ This category contains all ranks, with an article for each rank.
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
+### [[content/Categories/index|Click here to get on the categories page]]

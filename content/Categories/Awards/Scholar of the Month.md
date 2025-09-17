@@ -11,5 +11,5 @@ The award for earning Scholar of the Month are as follows:
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Awards|Click here to get on the current page's category]] 
+### [[content/Categories/index|Click here to get on the categories page]]
+### [[content/Categories/Awards/index|Click here to get on the current page's category]] 

@@ -10,5 +10,5 @@ To use this Force ability press the button **`N`**.
 
 ---
 
-### [[Categories|Click here to get on the categories page]]
-### [[Main Information|Click here to get on the current page's category]] 
+### [[content/Categories/index|Click here to get on the categories page]]
+### [[content/Categories/Main Information/index|Click here to get on the current page's category]] 
