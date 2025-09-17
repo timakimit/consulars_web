@@ -1,7 +1,3 @@
----
-title: "Consulars: RA"
-permalink: ra
----
 ![[korriban.png]]
 
 ---

@@ -1,7 +1,3 @@
----
-title: "Consulars: Discord rules"
-permalink: timakimit.github.io/consulars_web/discord_rules
----
 This article lists all the discord rules, that members of the discord server should maintain.
 > [!tip] Tip:
 > If have any queries regarding the rules stated below, please reach out to a Sage or above.

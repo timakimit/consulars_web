@@ -1,6 +1,5 @@
 ---
 title: Pathway Overview Category
-permalink: pathway_overview
 ---
 This category showcases the pathway.
 

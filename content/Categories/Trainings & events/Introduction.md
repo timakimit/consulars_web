@@ -1,7 +1,3 @@
----
-title: "Consulars: Intro"
-permalink: intro
----
 ![[lecture_hall.png]]
 
 ---

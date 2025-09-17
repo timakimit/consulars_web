@@ -1,7 +1,3 @@
----
-title: "Consulars: Formations"
-permalink: timakimit.github.io/consulars_web/formations
----
 > [!info] There's only two types of formations in Consulars:
 > 1. Main Consulars formations
 > 2. Special TG x Consulars Formations (AJK+)

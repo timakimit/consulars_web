@@ -1,7 +1,3 @@
----
-title: "Consulars: Mass Heal ability"
-permalink: timakimit.github.io/consulars_web/mass_heal_ability
----
 ![[mass_heal_ability.gif]]
 
 Mass Heal is the Force Ability of the Consular Pathway. To gain this ability you will need to achieve the rank of Consular Healer (Advanced Jedi Knight) within the Pathway.

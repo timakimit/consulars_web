@@ -1,7 +1,3 @@
----
-permalink: timakimit.github.io/consulars_web/cm
----
-
 **The Rank of Consular Master is given to the 3rd in Command of the Pathway.**
 
 To gain this rank you must be a currently serving member of the SHR team and be chosen by a vote done by the Council of First Knowledge.

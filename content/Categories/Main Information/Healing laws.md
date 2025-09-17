@@ -1,7 +1,3 @@
----
-title: "Consulars: Healing laws"
-permalink: timakimit.github.io/consulars_web/healing_laws
----
 This article lists all the healing laws that members of TJO should maintain.
 # **The Healing Laws of the Jedi Order**
 

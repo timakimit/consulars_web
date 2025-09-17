@@ -1,6 +1,5 @@
 ---
 title: "Consulars: CoTW"
-permalink: timakimit.github.io/consulars_web/cotw
 ---
 
 The Consular of the Week title is awarded to the highest performing Consular as chosen by the High Command team. CoTW is announced at each Weekly Announcement during the end of the week. Anyone within the path is eligible to become CoTW.

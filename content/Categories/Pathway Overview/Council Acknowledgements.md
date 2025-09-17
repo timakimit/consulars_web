@@ -1,8 +1,3 @@
----
-title: "Consulars: Council Acknowledgements"
-permalink: timakimit.github.io/consulars_web/council_acknowledgements
----
-
 # **PAST COUNCIL OF FIRST KNOWLEDGE**
 
 > [!info] Information:

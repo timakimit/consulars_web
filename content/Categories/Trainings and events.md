@@ -1,6 +1,5 @@
 ---
 title: Trainings & events
-permalink: timakimit.github.io/consulars_web/trainings_and_events
 ---
 List of all trainings & events, that are being hosted by staff team in Consulars.
 

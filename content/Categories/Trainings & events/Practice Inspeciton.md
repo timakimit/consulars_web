@@ -1,7 +1,3 @@
----
-title: "Consulars: PI"
-permalink: pi
----
 ![[temple_archives.png]]
 
 ---

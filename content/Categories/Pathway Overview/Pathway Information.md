@@ -1,7 +1,3 @@
----
-title: "Consulars: Pathway Information"
-permalink: timakimit.github.io/consulars_web/pathway_info
----
 ![[consulars_image_png.png]]
 # **Pathway Information**
 ## **Jedi Consulars Pathway**

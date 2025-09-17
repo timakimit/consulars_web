@@ -1,7 +1,3 @@
----
-permalink: timakimit.github.io/consulars_web/ambassador
----
-
 **The Rank of Ambassador is given to the High Ranks of the Pathway.**
 
 To gain this rank you must be a currently serving member of the Knowledge Keeper team and pass a Vote done by the Sage+ Team.

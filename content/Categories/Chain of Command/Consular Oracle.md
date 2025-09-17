@@ -1,7 +1,3 @@
----
-permalink: timakimit.github.io/consulars_web/oracle
----
-
 **The Rank of Oracle is given to the Second in Command of the Pathway.**
 
 To gain this rank you must be a currently serving member of the HiCom team and be chosen as the Oracle by the Caretaker of First Knowledge and First Knowledge Oversight.

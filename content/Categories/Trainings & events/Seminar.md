@@ -1,7 +1,3 @@
----
-title: "Consulars: Seminar"
-permalink: seminar
----
 ![[temple_archives.png]]
 
 ---

@@ -1,7 +1,3 @@
----
-title: "Consulars: LT"
-permalink: lt
----
 ![[rooftops.png]]
 
 ---

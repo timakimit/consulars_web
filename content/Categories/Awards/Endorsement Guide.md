@@ -1,6 +1,5 @@
 ---
 title: "Consulars: Endorsements Guide"
-permalink: timakimit.github.io/consulars_web/endorsements_guide
 ---
 
 **Endorsements are ratifications of exceptional performance or service awarded by the Higher Ranks of the Consular pathway.**

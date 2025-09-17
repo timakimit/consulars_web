@@ -1,8 +1,3 @@
----
-title: "Consulars: Jedi robes"
-permalink: timakimit.github.io/consulars_web/jedi_robes
----
-
 ![[black_robe.png]]
 The official robes of the Consular Pathway are the “Black Jedi Robes” and their many variants. 
 

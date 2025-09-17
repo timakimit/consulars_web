@@ -1,7 +1,3 @@
----
-permalink: timakimit.github.io/consulars_web/healer
----
-
 **Consular Healer is the First Middle Rank of the Pathway.**
 
 To gain this Rank you must pass your Advanced Jedi Knight Trials.  

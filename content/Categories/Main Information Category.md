@@ -1,6 +1,5 @@
 ---
 title: Main Information Category
-permalink: main_info_category
 ---
 This category shows the main information about pathway.
 

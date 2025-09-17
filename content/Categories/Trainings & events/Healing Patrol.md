@@ -1,7 +1,3 @@
----
-title: "Consulars: HP"
-permalink: hp
----
 ![[temple_archives.png]]
 
 ---

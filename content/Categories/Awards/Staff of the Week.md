@@ -1,6 +1,5 @@
 ---
 title: "Consulars: SoTW"
-permalink: timakimit.github.io/consulars_web/sotw
 ---
 
 The Staff of the Week title is awarded to the highest performing Consular HR through hosting, rank, activity, and leadership. SOTW is announced at each Weekly Announcement during the end of the week. Those eligible for HRoTW are Knowledge Keepers, Ambassadors, and Sages.

@@ -1,8 +1,3 @@
----
-title: "Consulars: KK"
-permalink: timakimit.github.io/consulars_web/kk
----
-
 **Knowledge Keeper is the First Staff Team Rank.**
 
 To gain this rank you must be a Consular Healer who has Passed his Knowledge Keeper Trials.

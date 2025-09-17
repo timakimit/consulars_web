@@ -1,7 +1,3 @@
----
-permalink: timakimit.github.io/consulars_web/faq
----
-
 Below are some frequently asked questions. Refer to this card for the answers which will be listed below:
 
 ---
