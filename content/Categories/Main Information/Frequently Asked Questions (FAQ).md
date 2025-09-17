@@ -31,3 +31,10 @@ Below are some frequently asked questions. Refer to this card for the answers wh
     
     - _A:_ Contact a Sage+, if the member in question is in the Consular staff team, contact a Consular Master+
 ---
+
+**DM @timakimit on discord if you have any ideas for more FAQs.**
+
+---
+
+### [[Categories list|Click here to get on the categories page]]
+### [[Main Information Category|Click here to get on the current page's category]] 

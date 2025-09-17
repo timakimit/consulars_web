@@ -1,9 +1,4 @@
----
-title: "Consulars: Discord rules"
-permalink: discord_rules
----
-
-This article lists all the discord rules, that members should maintain.
+This article lists all the discord rules, that members of the discord server should maintain.
 > [!tip] Tip:
 > If have any queries regarding the rules stated below, please reach out to a Sage or above.
 # Rules:
@@ -50,3 +45,8 @@ Phishing, doxxing, raids, etc. will be handled by a permanent ban and reported t
 ## Rule Ⅺ:
 
 Don't start arguments you have no intention of resolving. We ask you to take it to your DMs.
+
+---
+
+### [[Categories list|Click here to get on the categories page]]
+### [[Main Information Category|Click here to get on the current page's category]] 

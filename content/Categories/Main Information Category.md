@@ -1,7 +1,3 @@
----
-title: "Consulars: Main Information Category"
-permalink: main_info_category
----
 This category shows the main information about pathway.
 
 ---
@@ -19,3 +15,7 @@ This category shows the main information about pathway.
 ## [[Mass heal ability]]
 ## [[Frequently Asked Questions (FAQ)]]
 ## [[Jedi robes]] 
+
+---
+
+### [[Categories list|Click here to get on the categories page]]

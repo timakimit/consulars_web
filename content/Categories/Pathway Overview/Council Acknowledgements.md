@@ -47,3 +47,8 @@
 **JokeZealous** - Former Chairman of the Covenants  
 **Mikebloxx** - Former Activity & Trainings Director  
 **Shmeegulson** - Former CoFK Oversight
+
+---
+
+### [[Categories list|Click here to get on the categories page]]
+### [[Pathway Overview Category|Click here to get on the current page's category]] 

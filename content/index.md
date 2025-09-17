@@ -1,8 +1,8 @@
 ---
-title: "Consulars: Home page"
+title: Home page
 ---
 ![[consulars_image_png.png]]
-# **Pathway information**
+# **Pathway Information**
 ## **Jedi Consulars Pathway**
 
 "A Consular is a specialized kind of Jedi. They focus more on cerebral Force skills. They're our healers, our researchers, our seers." - **Zayne Carrick**
@@ -30,5 +30,5 @@ title: "Consulars: Home page"
 See the main roblox group of our pathway!
 ### [**Discord Invite**](https://discord.gg/FdXJHfzJaR)
 Join our discord server!
-### [[Categories (list)|Click here to get on the categories page]]
-### [[Pathway Overview|Click here to get on the current page's category]] 
+### [[Categories list|Click here to get on the categories page]]
+### [[Pathway Overview Category|Click here to get on the current page's category]] 

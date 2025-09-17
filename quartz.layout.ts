@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Roblox Group": "https://www.roblox.com/groups/4603627/The-Jedi-Order-I-Consulars#!/about",
+      "Discord Server": "https://discord.gg/FdXJHfzJaR",
     },
   }),
 }
