@@ -1,3 +1,8 @@
+---
+title: "Consulars: Council Acknowledgements"
+permalink: timakimit.github.io/consulars_web/council_acknowledgements
+---
+
 # **PAST COUNCIL OF FIRST KNOWLEDGE**
 
 > [!info] Information:
@@ -47,3 +52,8 @@
 **JokeZealous** - Former Chairman of the Covenants  
 **Mikebloxx** - Former Activity & Trainings Director  
 **Shmeegulson** - Former CoFK Oversight
+
+---
+
+### [[Categories|Click here to get on the categories page]]
+### [[Pathway Overview|Click here to get on the current page's category]] 

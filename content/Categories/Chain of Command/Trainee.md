@@ -1,3 +1,8 @@
+---
+permalink: timakimit.github.io/consulars_web/trainee
+title: "Consulars: Trainee"
+---
+
 **Consular Trainee is the Last Low Rank of the Pathway.**
 
 To become a Trainee you must attend and Pass 2 [[Lightsaber Training|Lightsaber Trainings]], 2 [[Seminar|Seminars]], 1 [[Healing Lecture]] and 1 [[Healing Patrol]], and be a [[Prospect|Consular Prospect]] for 3 days or more.
@@ -6,4 +11,11 @@ To become a Trainee you must attend and Pass 2 [[Lightsaber Training|Lightsaber 
 
 Once this is all done you may use our [#rank-request](https://discord.com/channels/869439124682203137/1406008763890274364) Channel to request your rank up to trainee using the Proof.
 
+---
+
 The Quota for Trainees is attending 2 Events.
+
+---
+
+### [[Categories|Click here to get on the categories page]]
+### [[Chain of Command|Click here to get on the current page's category]] 

@@ -1,6 +1,6 @@
 ---
 title: "Consulars: Healing laws"
-permalink: healing_laws
+permalink: timakimit.github.io/consulars_web/healing_laws
 ---
 This article lists all the healing laws that members of TJO should maintain.
 # **The Healing Laws of the Jedi Order**
@@ -22,3 +22,8 @@ This article lists all the healing laws that members of TJO should maintain.
 For Non-Consular Pathway members, the possible punishment to any of these offences is merely a **Warning.**
 
 Otherwise, for members of the Consular Pathway, possible punishment can range from: **A Warning, JJs, and/or a Pathway Strike.** In most **serious offences,** members of the Consular Pathway could obtain **2 strikes.**
+
+---
+
+### [[Categories|Click here to get on the categories page]]
+### [[Main Information|Click here to get on the current page's category]] 

@@ -1,6 +1,6 @@
 ---
 title: "Consulars: Endorsements Guide"
-permalink: endorsements_guide
+permalink: timakimit.github.io/consulars_web/endorsements_guide
 ---
 
 **Endorsements are ratifications of exceptional performance or service awarded by the Higher Ranks of the Consular pathway.**
@@ -71,3 +71,8 @@ These endorsements are the most prestigious honour a CoFK member can receive, an
 - Win the title of [[Scholar of the Month]].
     
 - Can be awarded as an additional award to the Insignia of the Council of First Knowledge.
+
+---
+
+### [[Categories|Click here to get on the categories page]]
+### [[Awards|Click here to get on the current page's category]] 

@@ -1,3 +1,7 @@
+---
+permalink: timakimit.github.io/consulars_web/award_recipients_III_IV_tier
+---
+
 # **Tier III Awards:**
 
 ## **Medal of Commendation**
@@ -65,3 +69,8 @@
     - misterdarthcow
         
     - Zevoren
+
+---
+
+### [[Categories|Click here to get on the categories page]]
+### [[Awards|Click here to get on the current page's category]] 

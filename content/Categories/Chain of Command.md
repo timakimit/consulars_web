@@ -36,3 +36,7 @@ This category contains all ranks, with an article for each rank.
 ### [[Trainee]]
 ### [[Prospect]]
 ### [[Pledge]]
+
+---
+
+### [[Categories|Click here to get on the categories page]]

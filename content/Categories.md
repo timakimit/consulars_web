@@ -1,6 +1,6 @@
 ---
-title: "Consulars: Categories"
-permalink: categories_list
+title: Categories
+permalink: timakimit.github.io/consulars_web/categories
 ---
 These are all the categories of this website.
 

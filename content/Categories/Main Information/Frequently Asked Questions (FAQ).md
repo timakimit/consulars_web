@@ -1,3 +1,7 @@
+---
+permalink: timakimit.github.io/consulars_web/faq
+---
+
 Below are some frequently asked questions. Refer to this card for the answers which will be listed below:
 
 ---
@@ -31,3 +35,10 @@ Below are some frequently asked questions. Refer to this card for the answers wh
     
     - _A:_ Contact a Sage+, if the member in question is in the Consular staff team, contact a Consular Master+
 ---
+
+**DM @timakimit on discord if you have any ideas for more FAQs.**
+
+---
+
+### [[Categories|Click here to get on the categories page]]
+### [[Main Information|Click here to get on the current page's category]] 

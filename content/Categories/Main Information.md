@@ -19,3 +19,7 @@ This category shows the main information about pathway.
 ## [[Mass heal ability]]
 ## [[Frequently Asked Questions (FAQ)]]
 ## [[Jedi robes]] 
+
+---
+
+### [[Categories|Click here to get on the categories page]]
