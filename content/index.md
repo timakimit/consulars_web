@@ -5,7 +5,8 @@ title: Home page
 # **Pathway Information**
 ## **Jedi Consulars Pathway**
 
-"A Consular is a specialized kind of Jedi. They focus more on cerebral Force skills. They're our healers, our researchers, our seers." - **Zayne Carrick**
+> [!quote] Zayne Carrick
+> "A Consular is a specialized kind of Jedi. They focus more on cerebral Force skills. They're our healers, our researchers, our seers."
 
 ---
 ## **Main information**
