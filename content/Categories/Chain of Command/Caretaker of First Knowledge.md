@@ -4,7 +4,7 @@ To gain this rank you must be a currently serving member of the HiCom team and b
 
 ---
 
-**CURRENT CARETAKER OF FIRST KNOWLEDGE: `RuDz_Shark`.**
+**CURRENT CARETAKER OF FIRST KNOWLEDGE: `RuDz_Shark` (1/1).**
 
 ---
 
