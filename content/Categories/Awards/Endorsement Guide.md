@@ -1,6 +1,3 @@
----
-title: "Consulars: Endorsements Guide"
----
 
 **Endorsements are ratifications of exceptional performance or service awarded by the Higher Ranks of the Consular pathway.**
 

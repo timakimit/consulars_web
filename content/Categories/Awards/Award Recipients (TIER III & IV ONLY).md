@@ -1,6 +1,3 @@
----
-permalink: timakimit.github.io/consulars_web/award_recipients_III_IV_tier
----
 
 # **Tier III Awards:**
 
