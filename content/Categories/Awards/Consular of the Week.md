@@ -11,5 +11,9 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
+**Current COTW: `FoxZOwen08`.**
+
+---
+
 ### [[Categories list|Click here to get on the categories page]]
 ### [[Awards Category|Click here to get on the current page's category]] 
