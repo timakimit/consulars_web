@@ -9,4 +9,4 @@ These are all the categories of this website.
 ## [[Main Information Category]]
 ## [[Chain of Command Category]]
 ## [[Awards Category]]
-## [[Trainings and events]]
+## [[Trainings & events Category]]

@@ -7,6 +7,7 @@ This category shows the main information about pathway.
 ## [[Discord rules]]
 ## [Database](http://docs.google.com/spreadsheets/d/1czsY1PDg3VdIQskgSwDzSF9bgEBojhKCSmFK5ljNRL4/edit?usp=sharing) 
 ## [[Formations]]
+## [[Pathway Information#**How to join in**|How to join the pathway]]
 
 ---
 
@@ -18,4 +19,5 @@ This category shows the main information about pathway.
 
 ---
 
+### [[Pathway Overview Category|Looked for something else? Check this category]]
 ### [[Categories list|Click here to get on the categories page]]
