@@ -10,7 +10,7 @@ The Quota for Ambassadors is Hosting 2 events and 1 [[Healing Patrol|Patrol]] in
 
 ---
 
-**CURRENT CONSULAR AMBASSADORS: `timakimit`, `gzeel`, `Mr_Adam2007`, `KumottaTenshi`, `clearlyxgeorge` (5/7)**
+**CURRENT CONSULAR AMBASSADORS: `gzeel`, `timakimit`, `KumottaHikari`, `clearlyxgeorge`, `SavorinNOVA`, `Renji_Praetorian` (6/7)**
 
 ---
 
