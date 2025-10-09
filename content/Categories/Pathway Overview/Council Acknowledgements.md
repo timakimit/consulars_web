@@ -18,7 +18,7 @@
 **dprav138** - Former Consular Overseer  
 **Thecooldudewhoiscol**- Former Consular Overseer  
 **MarioGamerPlay_10**- Former Consular Overseer and current JHC CoFK Oversight  
-**RuDz_Shark**- Current Consular Overseer
+**RuDz_Shark**- Current Consular Overseer  
 
 ---
 
@@ -37,24 +37,24 @@
 **SwiftValorius** - Former Chief Librarian  
 **Venom_Forsaken** - Former Chief Librarian  
 **Atlas_Forsaken** - Former Chief Librarian  
-**LagoonofSand** - Current Chief Librarian
+**LagoonofSand** - Current Chief Librarian  
 
 ---
 
 ## Jedi Academy:
 
-**SuperDarkAgent** - Former Master of the Academy
-**kmhxmx** - Former Master of the Academy
-**AtheonsMisa** - Former Master of the Academy
-**AlvaKenny** - Former Master of the Academy
-**isiahmorgan1** - Former Master of the Academy
-**brain223436** - Former Master of the Academy
-**ahmed_0251** - Former Master of the Academy
-**ItsVidz** - Former Master of the Academy
-**maximusmot** - Former Master of the Academy
-**SergeantSicarius** - Former Master of the Academy
-**GrammySenko** - Former Master of the Academy
-**TNTt_n** - Current Master of the Academy
+**SuperDarkAgent** - Former Master of the Academy  
+**kmhxmx** - Former Master of the Academy  
+**AtheonsMisa** - Former Master of the Academy  
+**AlvaKenny** - Former Master of the Academy  
+**isiahmorgan1** - Former Master of the Academy  
+**brain223436** - Former Master of the Academy  
+**ahmed_0251** - Former Master of the Academy  
+**ItsVidz** - Former Master of the Academy  
+**maximusmot** - Former Master of the Academy  
+**SergeantSicarius** - Former Master of the Academy  
+**GrammySenko** - Former Master of the Academy  
+**TNTt_n** - Current Master of the Academy  
 
 ---
 
