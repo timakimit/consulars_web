@@ -29,8 +29,9 @@
 **LocoChuli**- Former Chief Librarian and JHC CoFK Oversight  
 **AzmanakaRedsamsu**- Former Chief Librarian  
 **SwiftValorius**- Former Chief Librarian  
-**Venom_Forsaken**- Former Chief Librarian  
-**Atlas_Forsaken**- Current Chief Librarian
+**Venom_Forsaken** - Former Chief Librarian  
+**Atlas_Forsaken** - Former Chief Librarian
+**LagoonofSand** - Current Chief Librarian
 
 **thinkingdumbpro** - Former Researcher Overseer  
 **ZanthawokZeze** - Former Research Overseer  
