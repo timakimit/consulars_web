@@ -32,8 +32,7 @@
 **Venom_Forsaken** - Former Chief Librarian  
 **Atlas_Forsaken** - Former Chief Librarian
 **LagoonofSand** - Current Chief Librarian
-
-**thinkingdumbpro** - Former Researcher Overseer  
+%%**thinkingdumbpro** - Former Researcher Overseer  
 **ZanthawokZeze** - Former Research Overseer  
 **Smllworld** - Former Research Overseer and CoFK Overseer (JHC)  
 **Oltron**2 - Former Research Overseer  
@@ -43,7 +42,9 @@
 **DevBrambo** - Former Research Overseer  
 **VenasVox** - Former Research Overseer  
 **Havefunwithit**- Former Research Overseer  
-**Janni0508** - Current Research Overseer
+**Janni0508** - Current Research Overseer%%
+
+**TNTt_n** - Current Master of the Academy
 
 **JokeZealous** - Former Chairman of the Covenants  
 **Mikebloxx** - Former Activity & Trainings Director  
