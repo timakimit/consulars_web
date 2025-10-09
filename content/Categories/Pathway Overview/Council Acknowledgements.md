@@ -31,13 +31,12 @@
 **KenobiExostlyx** - Former Chief Librarian, Research Overseer and CoFK Overseer (JHC)  
 **albangenti** - Former Chief Librarian  
 **sinatrathecat2010** - Former Chief Librarian  
-**VicturiaDius**- Former Chief Librarian and JHC CoFK Oversight  
-**LocoChuli**- Former Chief Librarian and JHC CoFK Oversight  
-**AzmanakaRedsamsu**- Former Chief Librarian  
-**SwiftValorius**- Former Chief Librarian  
+**VicturiaDius** - Former Chief Librarian and JHC CoFK Oversight  
+**LocoChuli** - Former Chief Librarian and JHC CoFK Oversight  
+**AzmanakaRedsamsu** - Former Chief Librarian  
+**SwiftValorius** - Former Chief Librarian  
 **Venom_Forsaken** - Former Chief Librarian  
 **Atlas_Forsaken** - Former Chief Librarian
-**LagoonofSand** - Current Chief Librarian
 
 ---
 
