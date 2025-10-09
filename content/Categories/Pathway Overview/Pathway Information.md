@@ -14,7 +14,7 @@ This Pathway is overseen by the **Council of First Knowledge** and includes tw
 
 - The Librarian's Assembly
     
-- The Institute of Jedi Researchers
+- The Institute of Jedi Academy
     
 
 ---
