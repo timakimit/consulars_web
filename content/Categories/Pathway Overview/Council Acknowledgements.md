@@ -50,7 +50,7 @@
 **isiahmorgan1** - Former Master of the Academy
 **brain223436** - Former Master of the Academy
 **ahmed_0251** - Former Master of the Academy
-**ItzVidz** - Former Master of the Academy
+**ItsVidz** - Former Master of the Academy
 **maximusmot** - Former Master of the Academy
 **SergeantSicarius** - Former Master of the Academy
 **GrammySenko** - Former Master of the Academy
