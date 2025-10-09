@@ -3,6 +3,8 @@
 > [!info] Information:
 > This record begins on the day Arisonium became the owner (May 17th, 2021), and does not acknowledge NickSicarius or PrimusTyr. It is dedicated in showing all former members of the Council of First Knowledge.
 
+##  Consulars:
+
 **IlnoxII** - Former Consular Overseer & Chief Librarian  
 **DevForTesting** - Former Consular Overseer & CoFK Overseer (JHC)  
 **DalZealous** - Former Consular Overseer  
@@ -18,6 +20,10 @@
 **MarioGamerPlay_10**- Former Consular Overseer and current JHC CoFK Oversight  
 **RuDz_Shark**- Current Consular Overseer
 
+---
+
+## Librarian's Assembly:
+
 **Prophetess** - Former Chief Librarian  
 **TannerHonoris** - Former Chief Librarian  
 **Inter_Ivashkov** - Former Chief Librarian  
@@ -32,19 +38,14 @@
 **Venom_Forsaken** - Former Chief Librarian  
 **Atlas_Forsaken** - Former Chief Librarian
 **LagoonofSand** - Current Chief Librarian
-%%**thinkingdumbpro** - Former Researcher Overseer  
-**ZanthawokZeze** - Former Research Overseer  
-**Smllworld** - Former Research Overseer and CoFK Overseer (JHC)  
-**Oltron**2 - Former Research Overseer  
-**nuzqshu** - Former Research Overseer  
-**Jamieponken** - Former Research Overseer  
-**Papasnail25** - Former Research Overseer  
-**DevBrambo** - Former Research Overseer  
-**VenasVox** - Former Research Overseer  
-**Havefunwithit**- Former Research Overseer  
-**Janni0508** - Current Research Overseer%%
+
+---
+
+## Jedi Academy:
 
 **TNTt_n** - Current Master of the Academy
+
+---
 
 **JokeZealous** - Former Chairman of the Covenants  
 **Mikebloxx** - Former Activity & Trainings Director  
