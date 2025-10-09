@@ -43,6 +43,17 @@
 
 ## Jedi Academy:
 
+**SuperDarkAgent** - Former Master of the Academy
+**kmhxmx** - Former Master of the Academy
+**AtheonsMisa** - Former Master of the Academy
+**AlvaKenny** - Former Master of the Academy
+**isiahmorgan1** - Former Master of the Academy
+**brain223436** - Former Master of the Academy
+**ahmed_0251** - Former Master of the Academy
+**ItzVidz** - Former Master of the Academy
+**maximusmot** - Former Master of the Academy
+**SergeantSicarius** - Former Master of the Academy
+**GrammySenko** - Former Master of the Academy
 **TNTt_n** - Current Master of the Academy
 
 ---
