@@ -37,6 +37,7 @@
 **SwiftValorius** - Former Chief Librarian  
 **Venom_Forsaken** - Former Chief Librarian  
 **Atlas_Forsaken** - Former Chief Librarian
+**LagoonofSand** - Current Chief Librarian
 
 ---
 
