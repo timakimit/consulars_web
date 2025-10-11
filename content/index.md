@@ -2,7 +2,7 @@
 title: Home page
 ---
 > [!attention]- Attention (click on me)
-> If you'll use left list of folders, make sure to open in categories folder only files that are ending with "Category" for better view.
+> If you'll use left list of folders, make sure to open in "categories" folder only files that are ending with "Category" for better view.
 > ![[attention_index_img.png]]
 
 ![[consulars_image_png.png]]
@@ -21,7 +21,7 @@ This Pathway is overseen by the **Council of First Knowledge** and includes tw
 
 - The Librarian's Assembly
     
-- The Institute of Jedi Researchers
+- The Institute of Jedi Academy
     
 
 ---
