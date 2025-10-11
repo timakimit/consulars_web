@@ -12,7 +12,6 @@ The Quota of Knowledge Keepers is Hosting 2 events a Week.
 
 **CURRENT CONSULAR KNOWLEDGE KEEPERS: `cheerfulboomer223`, `FoxZOwen08`, `BoomBoomowski`, `Oshpup10`, `PLOIPL`, `joshua2tree`, `PixelNovu`. (7/8)**
 
-
 ---
 
 ### [[Categories list|Click here to get on the categories page]]
