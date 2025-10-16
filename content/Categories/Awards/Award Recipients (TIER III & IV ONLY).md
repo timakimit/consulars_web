@@ -10,12 +10,10 @@
     - Mariogamerplay_10
         
     - dprav138
-        
 
 ## **Consular Champion**
     
     - RuDz_Shark
-        
 
 ## **High Command Accolade**
     
@@ -26,7 +24,6 @@
     - RM_Vesperian
         
     - Irene_TV13
-        
 
 ---
 
@@ -37,7 +34,6 @@
     - VenasVox
         
     - MarioGamerPlay_10
-        
 
 ## **Eternal Consular**
     
