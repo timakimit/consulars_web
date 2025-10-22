@@ -8,7 +8,7 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
-**Current COTW: `tovenaarmerlij`.**
+**Current COTW: `dkblox8`.**
 
 ---
 

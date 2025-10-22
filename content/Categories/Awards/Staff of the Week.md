@@ -8,7 +8,7 @@ The award for earning High Rank of the Week are as follows:
 
 ---
 
-**Current SOTW: `PL0IPL`.**
+**Current SOTW: `clearlyxgeorge`.**
 
 ---
 
