@@ -6,7 +6,7 @@ Consular Masters Manage the Major Reports within the Pathway, Voting, Ranking an
 
 ---
 
-**CURRENT CONSULAR MASTERS: `Irene_TV13`, `RM_Vesperian`, `BsB39` (3/3).**
+**CURRENT CONSULAR MASTERS: `RM_Vesperian`, `BsB39` (2/3).**
 
 ---
 

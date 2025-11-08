@@ -6,46 +6,31 @@ title: Home page
 > ![[attention_index_img.png]]
 
 ![[consulars_image_png.png]]
-# **Pathway Information**
-## **Jedi Consulars Pathway**
+# Information
 
-> [!quote] Zayne Carrick
-> "A Consular is a specialized kind of Jedi. They focus more on cerebral Force skills. They're our healers, our researchers, our seers."
+Consulars is the one of three different pathways, that is focused on healing and learning.
 
----
-## **About the Consulars Pathway**
+> [!info]- How to join the pathway
+> If you wish to join in the consulars pathway, you need to complete next requirements:
+> 
+> 1. You need to achieve rank of Initiate in main group.
+> 2. You must **not** be in any other pathway but consulars.
+> 3. You must **not** be in any other division except Librarian's Assembly.
+> 
+> Once you've completed all the requirements, you can join in Consulars pathway with our initiation process method. Head to [# | initiation-process](https://discord.com/channels/869439124682203137/1430079529983938641) in our [discord server](https://discord.gg/FdXJHfzJaR) and follow instructions in the channel. After some time, you'll be accepted/declined by SHR+ (Sage+) team.
+> 
+> Once you become a pledge, you must complete Initiation Exam. You have 3 weeks to successfully pass it. If you fail it, you have to wait **10 hours** before attending another one. This event may be hosted by HR+ ([[Ambassador]]+). If you struggle to do certain parts of Initiation Exam, you always can attend normal trainings, like [[Lightsaber Training]], [[Healing Lecture]] and [[Seminar]]. Once you've passed the Initiation exam, you will be officially considered as a member.
+# Go-to portal
 
-Jedi Consulars are the scholars, sages, and diplomats of the Order. They focus on mastering the Force through knowledge, acting as battlefield healers, and preserving the wisdom of the Jedi Order.
+## [[Pathway Information]]
 
-This Pathway is overseen by the **Council of First Knowledge** and includes two institutes:
+## [[Categories list|Categories]]
 
-- The Librarian's Assembly
-    
-- The Institute of Jedi Academy
-    
+# Useful links
 
----
+## [Group Link](https://www.roblox.com/groups/4603627/The-Jedi-Order-I-Consulars#!/about)
 
-## **How to Join**
-
-We accept new members through a tryout process. Any Jedi with the rank of **Initiate or higher** is eligible to join if they pass their tryout and meet the following requirements:
-
-1. You must not be a member of any other institute or division (except the Librarian's Assembly).
-    
-2. You must not be a member of any other Pathway (e.g., Guardian or Sentinel).
-    
-3. You must not be blacklisted.
-    
-4. You must hold the rank of Initiate or higher.
-        
-**𝓗𝓮𝓪𝓵, 𝓛𝓮𝓪𝓻𝓷, 𝓟𝓻𝓸𝓽𝓮𝓬𝓽.**
-
----
-
-## **Useful links**
-### [**Group Link**](https://www.roblox.com/groups/4603627/The-Jedi-Order-I-Consulars#!/about)
 See the main roblox group of our pathway!
-### [**Discord Invite**](https://discord.gg/FdXJHfzJaR)
+## [Discord Invite](https://discord.gg/FdXJHfzJaR)
+
 Join our discord server!
-### [[Categories list|Click here to get on the categories page]]
-### [[Pathway Overview Category|Click here to get on the current page's category]] 
