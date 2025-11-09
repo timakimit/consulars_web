@@ -23,8 +23,11 @@ Consulars is the one of three different pathways, that is focused on healing and
 
 > [!info]- How to use this website
 > This website is divided on categories, and categories are divided on articles. To move between different sections of this website, you'll see those sections in the end of each page (photo). 
+> 
 > ![[how_to_use_website1.png]] 
+> 
 > First link leads to category of an article, second link leads to categories page. If you want to get back on this page, click on places marked with red (photo).
+> 
 > ![[how_to_use_website2.png]]
 # **Go-to portal**
 
