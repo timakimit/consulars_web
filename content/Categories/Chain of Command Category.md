@@ -5,34 +5,36 @@ This category contains all ranks, with an article for each rank.
 
 # **RANKS:**
 ## **Council of First Knowledge:**
-### [[First Knowledge Oversight|First Knowledge Oversight (MAX: 1 SLOT)]]
+### [[00. First Knowledge Oversight|First Knowledge Oversight (MAX: 1 SLOT)]]
 
 ---
 
 ## **HiCOM+:**
-### [[Caretaker of First Knowledge|Caretaker of First Knowledge (MAX: 1 SLOT)]]
-### [[Consular Oracle|Consular Oracle (MAX: 1 SLOT)]]
-### [[Consular Master|Consular Master (MAX: 3 SLOTS)]]
+### [[01. Caretaker of First Knowledge|Caretaker of First Knowledge (MAX: 1 SLOT)]]
+### [[02. Consular Oracle|Consular Oracle (MAX: 1 SLOT)]]
+### [[03. Consular Master|Consular Master (MAX: 3 SLOTS)]]
 
 ---
 
 ## **HIGH RANK:**
-### [[Sage|Senior High Rank // Sage (MAX: 3 SLOTS)]]
-### [[Ambassador|High Rank // Ambassador (MAX: 7 SLOTS)]]
+### [[04. Sage|Senior High Rank // Sage (MAX: 3 SLOTS)]]
+### [[05. Ambassador|High Rank // Ambassador (MAX: 7 SLOTS)]]
 
 ---
 
 ## **MIDDLE RANK:**
-### [[Knowledge Keeper|Knowledge Keeper (MAX: 8 SLOTS)]]
-### [[Consular Healer]]
+### [[06. Knowledge Keeper|Knowledge Keeper (MAX: 8 SLOTS)]]
+### [[07. Consular Healer|Consular Healer]]
 
 ---
 
 ## **LOW RANK:**
-### [[Trainee]]
-### [[Prospect]]
-### [[Pledge]]
+### [[08. Trainee|Trainee]]
+### [[09. Prospect|Prospect]]
+### [[10. Pledge|Pledge]]
 
 ---
 
-### [[Categories list|Click here to get on the categories page]]
+# **Go-to portal**
+
+## [[Categories list|Categories]]

@@ -3,6 +3,8 @@ This category shows the main information about pathway.
 ---
 
 # Articles:
+
+## [[Pathway Information]]
 ## [[Healing laws]]
 ## [[Discord rules]]
 ## [Database](http://docs.google.com/spreadsheets/d/1czsY1PDg3VdIQskgSwDzSF9bgEBojhKCSmFK5ljNRL4/edit?usp=sharing) 
@@ -17,7 +19,9 @@ This category shows the main information about pathway.
 ## [[Frequently Asked Questions (FAQ)]]
 ## [[Jedi robes]] 
 
+
 ---
 
-### [[Pathway Overview Category|Looked for something else? Check this category]]
-### [[Categories list|Click here to get on the categories page]]
+# **Go-to portal**
+
+## [[Categories list|Categories]]

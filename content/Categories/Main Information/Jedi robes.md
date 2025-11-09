@@ -5,5 +5,7 @@ They are to be worn during events like Consular Patrols and Practice Inspections
 
 ---
 
-### [[Categories list|Click here to get on the categories page]]
-### [[Main Information Category|Click here to get on the current page's category]] 
+# **Go-to portal**
+
+## [[Categories list|Categories]]
+## [[Main Information Category]] 

@@ -6,7 +6,7 @@ title: Home page
 > ![[attention_index_img.png]]
 
 ![[consulars_image_png.png]]
-# Information
+# **Information**
 
 Consulars is the one of three different pathways, that is focused on healing and learning.
 
@@ -19,14 +19,17 @@ Consulars is the one of three different pathways, that is focused on healing and
 > 
 > Once you've completed all the requirements, you can join in Consulars pathway with our initiation process method. Head to [# | initiation-process](https://discord.com/channels/869439124682203137/1430079529983938641) in our [discord server](https://discord.gg/FdXJHfzJaR) and follow instructions in the channel. After some time, you'll be accepted/declined by SHR+ (Sage+) team.
 > 
-> Once you become a pledge, you must complete Initiation Exam. You have 3 weeks to successfully pass it. If you fail it, you have to wait **10 hours** before attending another one. This event may be hosted by HR+ ([[Ambassador]]+). If you struggle to do certain parts of Initiation Exam, you always can attend normal trainings, like [[Lightsaber Training]], [[Healing Lecture]] and [[Seminar]]. Once you've passed the Initiation exam, you will be officially considered as a member.
-# Go-to portal
+> Once you become a pledge, you must complete Initiation Exam. You have 3 weeks to successfully pass it. If you fail it, you have to wait **10 hours** before attending another one. This event may be hosted by HR+ ([[05. Ambassador]]+). If you struggle to do certain parts of Initiation Exam, you always can attend normal trainings, like [[Lightsaber Training]], [[Healing Lecture]] and [[Seminar]]. Once you've passed the Initiation exam, you will be officially considered as a member.
+
+> [!info]- How to use this website
+> This website is divided on categories, and categories are divided on articles. To move between different sections of this website, you'll see those sections in the end of each page (photo). ![[how_to_use_website1.png]] First link leads to category of an article, second link leads to categories page. If you want to get back on this page, click on places marked with red (photo). ![[how_to_use_website2.png]]
+# **Go-to portal**
 
 ## [[Pathway Information]]
 
 ## [[Categories list|Categories]]
 
-# Useful links
+# **Useful links**
 
 ## [Group Link](https://www.roblox.com/groups/4603627/The-Jedi-Order-I-Consulars#!/about)
 

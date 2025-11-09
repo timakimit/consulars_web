@@ -12,4 +12,6 @@ Awards are simply methods of rewarding Consulars members for exemplary service o
 
 ---
 
-### [[Categories list|Click here to get on the categories page]]
+# **Go-to portal**
+
+## [[Categories list|Categories]]

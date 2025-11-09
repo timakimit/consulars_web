@@ -70,5 +70,7 @@ These endorsements are the most prestigious honour a CoFK member can receive, an
 
 ---
 
-### [[Categories list|Click here to get on the categories page]]
-### [[Awards Category|Click here to get on the current page's category]] 
+# **Go-to portal**
+
+## [[Categories list|Categories]]
+## [[Awards Category]] 

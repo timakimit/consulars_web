@@ -43,5 +43,7 @@ Join our discord server!
 
 ---
 
-### [[Categories list|Click here to get on the categories page]]
-### [[Pathway Overview Category|Click here to get on the current page's category]]
+# **Go-to portal**
+
+## [[Categories list|Categories]]
+## [[Main Information Category]] 

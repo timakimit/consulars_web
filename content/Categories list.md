@@ -5,8 +5,8 @@ These are all the categories of this website.
 
 ---
 # Categories
-## [[Pathway Overview Category]]
-## [[Main Information Category]]
+
+## [[Main Information Category|Main Information]]
 ## [[Chain of Command Category]]
 ## [[Awards Category]]
-## [[Trainings & events Category]]
+## [[Trainings & Events Category]]
