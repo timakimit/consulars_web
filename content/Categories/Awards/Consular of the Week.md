@@ -8,7 +8,7 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
-**Current COTW: `the_darkknight4`.**
+**Current COTW: `Caleb_Rocks12`.**
 
 ---
 
