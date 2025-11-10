@@ -7,7 +7,7 @@ This category shows the main information about pathway.
 ## [[Pathway Information]]
 ## [[Healing laws]]
 ## [[Discord rules]]
-## [[Database]]
+## [Database](http://docs.google.com/spreadsheets/d/1czsY1PDg3VdIQskgSwDzSF9bgEBojhKCSmFK5ljNRL4/edit?usp=sharing)
 ## [[Formations]]
 ## [[Pathway Information#**How to join in**|How to join the pathway]]
 
