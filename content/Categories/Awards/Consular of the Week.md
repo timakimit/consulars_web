@@ -8,7 +8,7 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
-**Current COTW: `Planktonbrain`.**
+**Current COTW: `Planktonbrain`. and `setup27465`**
 
 ---
 
