@@ -11,4 +11,4 @@ Consular Lightsaber Trainings will focus on the technical & combative side of ou
 # **Go-to portal**
 
 ## [[Categories list|Categories]]
-## [[Trainings & Events Category]] 
+## [[Trainings and Events Category]] 

@@ -11,4 +11,4 @@ Consular Healing Lectures focus on all aspects of healing. Lectures will consist
 # **Go-to portal**
 
 ## [[Categories list|Categories]]
-## [[Trainings & Events Category]] 
+## [[Trainings and Events Category]] 

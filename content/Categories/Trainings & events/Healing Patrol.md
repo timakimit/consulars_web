@@ -11,4 +11,4 @@ A Consular Healing Patrol will focus on strategic command and thinking. These pa
 # **Go-to portal**
 
 ## [[Categories list|Categories]]
-## [[Trainings & Events Category]] 
+## [[Trainings and Events Category]] 

@@ -11,4 +11,4 @@ A Consular Intro will focus on Explaining the basics of the Pathway to new membe
 # **Go-to portal**
 
 ## [[Categories list|Categories]]
-## [[Trainings & Events Category]] 
+## [[Trainings and Events Category]] 

@@ -11,4 +11,4 @@ Consular Seminars will focus on the lore & defensive sides of TJO, consisting of
 # **Go-to portal**
 
 ## [[Categories list|Categories]]
-## [[Trainings & Events Category]] 
+## [[Trainings and Events Category]] 

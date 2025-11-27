@@ -11,4 +11,4 @@ Consular Practice Inspections are hosted on a seldom schedule. The purpose of th
 # **Go-to portal**
 
 ## [[Categories list|Categories]]
-## [[Trainings & Events Category]] 
+## [[Trainings and Events Category]] 
