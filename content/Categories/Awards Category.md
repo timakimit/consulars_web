@@ -4,10 +4,15 @@ Awards are simply methods of rewarding Consulars members for exemplary service o
 
 # **USEFUL LINKS:**
 ## [Medal Handbook](https://docs.google.com/document/d/1gQvR9MFH7S9_Ba64HTDRlWnVLA0nXKDgv-QhgjOyFf8/edit?tab=t.0)
+
 ## [[Endorsement Guide]]
+
 ## [[Scholar of the Month]]
+
 ## [[Consular of the Week]]
+
 ## [[Staff of the Week]]
+
 ## [[Award Recipients (TIER III & IV ONLY)]]
 
 ---

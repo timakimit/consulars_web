@@ -17,8 +17,9 @@
 **VenasVox** - Former Consular Overseer and JHC CoFK Oversight  
 **dprav138** - Former Consular Overseer  
 **Thecooldudewhoiscol**- Former Consular Overseer  
-**MarioGamerPlay_10**- Former Consular Overseer and current JHC CoFK Oversight  
-**RuDz_Shark**- Current Consular Overseer  
+**MarioGamerPlay_10** - Former Consular Overseer and current JHC CoFK Oversight  
+**RuDz_Shark** - Former Consular Overseer  
+RikuTenshi - Current Consular Overseer  
 
 ---
 
@@ -41,19 +42,24 @@
 
 ---
 
+## Jedi Researchers:
+
+**thinkingdumbpro** - Former Researcher Overseer  
+**ZanthawokZeze** - Former Research Overseer  
+**Smllworld** - Former Research Overseer and CoFK Overseer (JHC)  
+**Oltron**2 - Former Research Overseer  
+**nuzqshu** - Former Research Overseer  
+**Jamieponken** - Former Research Overseer  
+**Papasnail25** - Former Research Overseer  
+**DevBrambo** - Former Research Overseer  
+**VenasVox** - Former Research Overseer  
+**Havefunwithit**- Former Research Overseer  
+**Janni0508** - Former Research Overseer  
+
+---
+
 ## Jedi Academy:
 
-**SuperDarkAgent** - Former Master of the Academy  
-**kmhxmx** - Former Master of the Academy  
-**AtheonsMisa** - Former Master of the Academy  
-**AlvaKenny** - Former Master of the Academy  
-**isiahmorgan1** - Former Master of the Academy  
-**brain223436** - Former Master of the Academy  
-**ahmed_0251** - Former Master of the Academy  
-**ItsVidz** - Former Master of the Academy  
-**maximusmot** - Former Master of the Academy  
-**SergeantSicarius** - Former Master of the Academy  
-**GrammySenko** - Former Master of the Academy  
 **TNTt_n** - Current Master of the Academy  
 
 ---
