@@ -19,7 +19,7 @@
 **Thecooldudewhoiscol**- Former Consular Overseer  
 **MarioGamerPlay_10** - Former Consular Overseer and current JHC CoFK Oversight  
 **RuDz_Shark** - Former Consular Overseer  
-RikuTenshi - Current Consular Overseer  
+**RikuTenshi** - Current Consular Overseer  
 
 ---
 
