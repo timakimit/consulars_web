@@ -1,4 +1,6 @@
-![[black_robe.png]]
+> [!info]- Robes showcase
+>![[black_robe_front.png]] 
+>![[black_robe_back.png]]
 
 The official robes of the Consular Pathway are the “Black Jedi Robes” and their many variants. 
 
