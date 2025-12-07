@@ -7,7 +7,7 @@ The award for earning Scholar of the Month are as follows:
 
 ---
 
-**Current SOTM: `gzeel`.**
+**Current SOTM: `RoyalValorian`.**
 
 ---
 
