@@ -60,7 +60,7 @@
 
 ## Jedi Academy:
 
-**TNTt_n** - Former Master of the Academy
+**TNTt_n** - Former Master of the Academy  
 **RoyalValorian** - Current Master of the Academy  
 
 ---
