@@ -8,7 +8,7 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
-**Current COTW: `KumottaHikari`**
+**Current COTW: `Rudolf6123455`**
 
 ---
 
