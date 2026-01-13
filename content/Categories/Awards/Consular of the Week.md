@@ -8,7 +8,7 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
-**Current COTW: `PL0IPL`**
+**Current COTW: `E_SD010015`**
 
 ---
 
