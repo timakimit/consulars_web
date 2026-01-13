@@ -7,6 +7,11 @@ These are all the categories of this website.
 # Categories
 
 ## [[Main Information Category|Main Information]]
+
 ## [[Chain of Command Category]]
+
 ## [[Awards Category]]
+
 ## [[Trainings and Events Category]]
+
+## [[News Category]] 
