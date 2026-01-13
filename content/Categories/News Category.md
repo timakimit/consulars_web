@@ -2,7 +2,7 @@ This category contains all news of consulars pathway, including rank ups, new jo
 
 In the end of each week all news are being summarized in a big weekly news with all information about everything what happened in a pathway.
 
-While daily news might contain 1-3 sentences, weekly news will contain up to ~30 sentences. Everything will be categorized.
+While daily news might contain 1-10 sentences, weekly news will contain up to ~50 sentences. Everything will be categorized.
 
 ---
 
