@@ -9,3 +9,4 @@ While daily news might contain 1-10 sentences, weekly news will contain up to ~5
 ## January 2026
 
 [[Jan 12, 2026]] 
+[[Jan 13, 2026]] 
