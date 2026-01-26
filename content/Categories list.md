@@ -13,5 +13,3 @@ These are all the categories of this website.
 ## [[Awards Category]]
 
 ## [[Trainings and Events Category]]
-
-## [[News Category]] 
