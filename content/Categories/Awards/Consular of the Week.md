@@ -8,7 +8,7 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
-**Current COTW: `Aniper109`**
+**Current COTW: `Renji_Praetorian`**
 
 ---
 
