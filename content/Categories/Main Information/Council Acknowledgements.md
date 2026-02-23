@@ -17,7 +17,7 @@
 **VenasVox** - Former Consular Overseer and JHC CoFK Oversight  
 **dprav138** - Former Consular Overseer  
 **Thecooldudewhoiscol**- Former Consular Overseer  
-**MarioGamerPlay_10** - Former Consular Overseer and former JHC CoFK Oversight  
+**MarioGamerPlay_10** - Former Consular Overseer and Former JHC CoFK Oversight  
 **RuDz_Shark** - Former Consular Overseer  
 **RikuTenshi** - Current Consular Overseer  
 
@@ -38,7 +38,7 @@
 **SwiftValorius** - Former Chief Librarian  
 **Venom_Forsaken** - Former Chief Librarian  
 **Atlas_Forsaken** - Former Chief Librarian  
-**LagoonofSand** - Former Chief Librarian and current JHC CoFK Oversight  
+**LagoonofSand** - Former Chief Librarian and Current JHC CoFK Oversight  
 **Valkorion9872** - Current Chief Librarian  
 
 ---
