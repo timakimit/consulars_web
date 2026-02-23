@@ -6,7 +6,7 @@ These are all the categories of this website.
 ---
 # Categories
 
-## [[Main Information Category|Main Information]]
+## [[Main Information Category|Main Information Category]]
 
 ## [[Chain of Command Category]]
 
