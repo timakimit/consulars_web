@@ -8,7 +8,7 @@ The award for earning High Rank of the Week are as follows:
 
 ---
 
-**Current SOTW: `Jarek12920`.**
+**Current SOTW: `emperor_gosho`.**
 
 ---
 
