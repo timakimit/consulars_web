@@ -23,7 +23,7 @@ This category contains all ranks, with an article for each rank.
 
 ## **HIGH RANK:**
 
-### [[04. Sage|Senior High Rank // Sage (MAX: 3 SLOTS)]]
+### [[04. Sage|Senior High Rank // Sage (MAX: 4 SLOTS)]]
 
 ### [[05. Ambassador|High Rank // Ambassador (MAX: 7 SLOTS)]]
 
@@ -31,7 +31,7 @@ This category contains all ranks, with an article for each rank.
 
 ## **MIDDLE RANK:**
 
-### [[06. Knowledge Keeper|Knowledge Keeper (MAX: 8 SLOTS)]]
+### [[06. Knowledge Keeper|Knowledge Keeper (MAX: 6 SLOTS)]]
 
 ### [[07. Consular Healer|Consular Healer]]
 
