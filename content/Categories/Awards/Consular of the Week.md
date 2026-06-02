@@ -8,7 +8,7 @@ The award for earning Consular of the Week are as follows:
 
 ---
 
-**Current COTW: `villamacte`**
+**Current COTW: `hdd9345`**
 
 ---
 
